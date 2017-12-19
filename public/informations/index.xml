@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informations on  Licence Professionnelle GTB Béthune</title>
+    <link>http://lprogtb.univ-artois.fr/informations/</link>
+    <description>Recent content in Informations on  Licence Professionnelle GTB Béthune</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 18 Mar 2017 10:59:56 +0100</lastBuildDate>
+    
+	<atom:link href="http://lprogtb.univ-artois.fr/informations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Présentation de l&#39;IUT</title>
+      <link>http://lprogtb.univ-artois.fr/informations/iut/</link>
+      <pubDate>Sat, 18 Mar 2017 10:59:56 +0100</pubDate>
+      
+      <guid>http://lprogtb.univ-artois.fr/informations/iut/</guid>
+      <description>L&amp;rsquo;I.U.T. de Béthune dispense, en formation traditionnelle et par la voie de l&amp;rsquo;apprentissage, un enseignement supérieur destiné à préparer aux fonctions d&amp;rsquo;encadrement technique et professionnel. Ces fonctions peuvent s&amp;rsquo;exercer dans les divers secteurs opérationnels de la production, de la recherche et des services.
+Une des originalités de l&amp;rsquo;I.U.T. de Béthune réside dans ses nombreux partenariats économiques et son importante activité internationale qui permet des échanges d&amp;rsquo;étudiants, des stages à l&amp;rsquo;étranger et des voyages d&amp;rsquo;études dans le cadre des grands programmes européens.</description>
+    </item>
+    
+  </channel>
+</rss>

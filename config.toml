@@ -2,6 +2,11 @@ languageCode = "fr-fr"
 title = " Licence Professionnelle GTB Béthune"
 theme = "crab"
 baseurl = "http://lprogtb.univ-artois.fr/"
+enableRobotsTXT = true
+publishDir = "public"
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
 
 [params]
 description = "Licence Professionnelle Énergie et Génie Climatique spécialité « Gestion Technique des Bâtiments » à l'IUT de béthune"
