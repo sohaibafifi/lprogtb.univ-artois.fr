@@ -1,0 +1,86 @@
+languageCode = "fr-fr"
+title = " Licence Professionnelle GTB Béthune"
+theme = "crab"
+baseurl = "http://lprogtb.univ-artois.fr/"
+
+[params]
+description = "Licence Professionnelle Énergie et Génie Climatique spécialité « Gestion Technique des Bâtiments » à l'IUT de béthune"
+logoimage = "logo-gtb.png"
+# copyright = "foo"
+
+# mathjax = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+## Uncomment if you want mathjax enabled. The above cdn source is taken from https://gohugo.io/content-management/formats/#mathjax-with-hugo   
+
+
+
+[permalinks]
+blog  = "/nouvelles/:title/"
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+weight = 1
+name = "Accueil"
+url = "/"
+[[menu.main]]
+weight = 2
+name = "La licence pro GTB"
+url = "/lpro-gtb/"
+identifier = "gtb"
+  [[menu.main]]
+  parent = "gtb"
+  weight = 1
+  name = "Présentation"
+  url = "/lpro-gtb/presentation/"
+  [[menu.main]]
+  parent = "gtb"
+  weight = 2
+  name = "Formation en alternance"
+  url = "/lpro-gtb/alternance/"
+  [[menu.main]]
+  parent = "gtb"
+  weight = 3
+  name = "Le stage"
+  url = "/lpro-gtb/stage/"
+  [[menu.main]]
+  parent = "gtb"
+  weight = 4
+  name = "Les matières"
+  url = "/lpro-gtb/matieres/"
+  [[menu.main]]
+  parent = "gtb"
+  weight = 5
+  name = "Comment s'inscrire ?"
+  url = "/lpro-gtb/inscription/"
+
+[[menu.main]]
+weight = 3
+name = "Informations Diverses"
+url = "/informations/"
+identifier = "infos"
+  #[[menu.main]]
+  #parent = "infos"
+  #weight = 1
+  #name = "Liens Utiles"
+  #url = "/informations/liens/"
+  [[menu.main]]
+  parent = "infos"
+  weight = 2
+  name = "Présentation de l'IUT"
+  url = "/informations/iut/"
+  #[[menu.main]]
+  #parent = "infos"
+  #weight = 3
+  #name = "Se rendre à l'IUT"
+  #url = "/informations/acces/"
+  #[[menu.main]]
+  #parent = "infos"
+  #weight = 4
+  #name = "Téléchargements"
+  #url = "/informations/telechargements/"
+
+[[menu.main]]
+weight = 6
+name = "Contact"
+url = "/contact/"
