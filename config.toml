@@ -89,3 +89,9 @@ identifier = "infos"
 weight = 6
 name = "Contact"
 url = "/contact/"
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
